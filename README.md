@@ -29,7 +29,7 @@
 | brand_id              | integer    | null: false                        |
 | prefecture_id         | integer    | null: false                        |
 | aging_id              | integer    | null: false                        |
-| list_price            | integer    | null: false                        |
+| price 　　　           | integer    | null: false                        |
 
 ### Association
 
